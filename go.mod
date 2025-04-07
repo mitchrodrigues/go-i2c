@@ -1,4 +1,4 @@
-module github.com/mitchrodrigues/i2c
+module github.com/mitchrodrigues/go-i2c
 
 go 1.24.1
 
